@@ -6,3 +6,7 @@
 - Aivla FlightBag2
 - ProATC
 - Aerosoft Airbus A320
+- Navigraph Data(Latest)
+
+# Aivla FlightBag2
+- EFB要实现与Prepar3D的位置联动, 需要安装FSUIPC
