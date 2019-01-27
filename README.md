@@ -1,6 +1,10 @@
 # uranus-flightsim
 模拟飞行的相关内容
 
+# 小知识
+- 飞机上的这9个细节
+    > https://zhuanlan.zhihu.com/p/46486209
+    
 # 环境
 - Prepar3D V4
 - Aivla FlightBag2
